@@ -42,7 +42,7 @@
   
   .navbar a button {
     background: #fff;
-    color: #288adf;
+    color: green;
     border: none;
     padding: 8px 15px;
     border-radius: 100px;
@@ -88,7 +88,7 @@
     margin-left: 240px;
     align-items: center;
     position: absolute;
-    font-size: 20px;
+    font-size: 30px;
     
   
     
